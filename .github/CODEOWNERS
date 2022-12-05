@@ -1,0 +1,4 @@
+# .github codeowners file
+
+# Infra doesn't necessarily own all content, but somebody needs to review PRs
+*   @determined-ai/infrastructure
